@@ -22,3 +22,19 @@ select,
 textarea {
     max-width: 280px;
 }
+
+/*
+    自定义样式 by sfrost
+*/
+.index-middle{
+    text-align:center;
+    line-height:100%;
+}
+.index-h2{
+    margin-top:20px;
+}
+.index-h2-p{
+    font-size:1.3em;
+    color:#666666;
+    margin:20px 0px;
+}
